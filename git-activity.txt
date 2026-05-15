@@ -1,1 +1,2 @@
-This is my first Git-Activity. My name is Jiee.
+This is my first Git-Activity.
+This is not my first Git-Activity.
