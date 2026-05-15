@@ -1,1 +1,2 @@
 This is my first Git-Activity.
+This is not my first Git-Activity.
